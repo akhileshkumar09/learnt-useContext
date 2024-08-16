@@ -11,7 +11,10 @@ function Home() {
     <Link className='link' to='/useEffect-problem-3'>Problem-3</Link>
     <Link className='link' to='/useEffect-problem-4'>Problem-4</Link>
     <Link className='link' to='/useEffect-problem-5'>Problem-5</Link>
-    </div>   
+    </div>  
+    <div className='useContext'>
+    <Link className='link' to='/useContext-problem-1'>Problem-1</Link>
+    </div> 
     </div>
   )
 }
